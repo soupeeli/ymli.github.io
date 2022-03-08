@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Hello! 你好！
 
+My name is Yamin Li, a M.Sc. student in Dept. of Biomedical Engineering at Shanghai Jiao Tong University. This page is under construction. If you have any suggestions, please feel free to contact me by yaminli19@sjtu.edu.cn
 You can use the [editor on GitHub](https://github.com/soupeeli/soupee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
